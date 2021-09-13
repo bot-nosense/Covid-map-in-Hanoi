@@ -6,4 +6,6 @@ chi tiết tại branch "13-9-2021"
 
 *dù cho mai này gặp nhiều khó khăn, mong là bản thân sẽ luôn giữ vững niềm tin. không chịu từ bỏ, nhất định thành công*
 
-<img src="https://media.giphy.com/media/6Sfx7CYFYYzCk2UvcG/giphy.gif?cid=790b76111c087dbd7f11675324c89e20b464d670e7b5bdf6&rid=giphy.gif&ct=gf" width="1000" height="600" />
+[![Watch the video](![dong anh](https://user-images.githubusercontent.com/88817024/133072803-34a23efc-37cc-440a-9deb-09f6c3b6881f.png))](
+https://user-images.githubusercontent.com/88817024/133072853-65a0b8b4-c2f2-4083-89ba-4a4aa2bcd48a.mp4
+)
