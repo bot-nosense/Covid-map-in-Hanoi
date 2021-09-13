@@ -6,4 +6,4 @@ chi tiết tại branch "13-9-2021"
 
 *dù cho mai này gặp nhiều khó khăn, mong là bản thân sẽ luôn giữ vững niềm tin. không chịu từ bỏ, nhất định thành công*
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/6Sfx7CYFYYzCk2UvcG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/6Sfx7CYFYYzCk2UvcG">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/6Sfx7CYFYYzCk2UvcG/giphy.gif?cid=790b76111c087dbd7f11675324c89e20b464d670e7b5bdf6&rid=giphy.gif&ct=gf" width="40" height="40" />
